@@ -99,11 +99,7 @@ body{
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
-.special-img:hover img{
-    -webkit-transform: scale(1.2);
-        -ms-transform: scale(1.2);
-            transform: scale(1.2);
-}
+
 
 /* offers */
 #offers{
